@@ -1,4 +1,6 @@
 #!/bin/bash
 echo "/root/alx-system_engineering-devops/0x00-shell_basics"
-
+echo "Walykum salaam.Whats your name?"
+read name
+echo "Nice to meet you $name.Goodnight."
 
