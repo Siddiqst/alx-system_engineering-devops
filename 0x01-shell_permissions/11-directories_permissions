@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+X
+find . -type f -exec chmod 644 {} \nfind . -type d -exec chmod 755 {} +
